@@ -1,4 +1,4 @@
-name: CP Git
+name: CP Git CI-CD
 
 on: 
   push:
